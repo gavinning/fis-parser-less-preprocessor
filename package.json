@@ -1,0 +1,26 @@
+{
+  "name": "fis-parser-less-preprocessor",
+  "description": "less文件编译前预处理",
+  "main": "index.js",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "uz -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gavinning/fis-parser-less-preprocessor.git"
+  },
+  "keywords": [
+    "uz",
+    "fis",
+    "fis less",
+    "fis parser less",
+    "fis-parser-less-preprocessor"
+  ],
+  "author": "gavinning",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/gavinning/fis-parser-less-preprocessor/issues"
+  },
+  "homepage": "https://github.com/gavinning/fis-parser-less-preprocessor"
+}
